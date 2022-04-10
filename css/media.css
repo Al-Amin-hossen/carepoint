@@ -1,0 +1,305 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+     /* banner */
+    .banner{
+        padding: 100px 0;
+    }
+    .b_content h1{
+        font-size: 30px;
+    }
+    .b_content p{
+        margin: 20px 0;
+        font-size: 16px;
+    }
+    /* Feature */
+    .f_single{
+        padding: 25px 35px;
+    }
+    .f_single h2{
+        font-size: 25px;
+    }
+    .f_single p{
+        margin-top: 10px;
+    }
+    .icon{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+    }
+    /* common section */
+    .c_section h1{
+        font-size: 35px;
+    }
+    .c_section p{
+        margin: 10px 0;
+    }
+    /* About */
+    .about{
+        padding-top: 60px ;
+    }
+    .a_single{
+        margin-top: 40px;
+    }
+    .a_icon{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+    }
+    .f_heading{
+        font-size: 25px;
+    }
+    .a_text{
+        margin-top: 10px;
+    }
+    /* count */
+    .count{
+        padding: 50px 0;
+    
+    }
+    .count_single{
+        margin-top: 25px;
+    }
+    .count_icon{
+        margin-bottom: 10px;
+        font-size: 40px;
+    }
+    .counter{
+        font-size: 30px;
+    }
+    .count_border{
+        width: 50px;
+        height: 3px;
+        margin: 8px 0;
+    }
+    .count_single h3{
+        font-size: 16px;
+    }
+    /* creative */
+    /* creative */
+    .creative{
+        margin-top: 50px;
+    }
+    .service{
+        padding: 60px 0;
+    }
+    /* gallery */
+    .gallery{
+        padding: 50px;
+    }
+    /* team */
+    .team{
+        padding: 60px 0;
+    }
+    .t_single img{
+        width: 90% !important;
+    }
+    /* contact */
+    .contact{
+        padding: 50px 0;
+    }
+    .info_single{
+        margin-top: 20px;
+    }
+    .c_single{
+        margin-top: 10px;
+    }
+    /* footer */
+    footer{
+        padding: 35px 0;
+    }
+}
+/* Small devices (landscape phones, 576px to 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* banner */
+    .banner{
+        padding: 140px 0;
+    }
+    .b_content h1{
+        font-size: 35px;
+    }
+    .b_content p{
+        margin: 25px 0;
+    }
+    /* Feature */
+    .f_single{
+        padding: 30px 40px;
+    }
+    .icon{
+        width: 60px;
+        height: 60px;
+        font-size: 30px;
+    }
+    /* common section */
+    .c_section h1{
+        font-size: 35px;
+    }
+    .c_section p{
+        margin: 15px 0;
+    }
+    /* About */
+    .about{
+        padding-top: 70px ;
+    }
+    .a_single{
+        margin-top: 50px;
+    }
+    .a_icon{
+        width: 60px;
+        height: 60px;
+        font-size: 30px;
+    }
+    /* count */
+    .count{
+        padding: 60px 0;
+    
+    }
+    .count_single{
+        margin-top: 30px;
+    }
+    .count_icon{
+        margin-bottom: 10px;
+        font-size: 45px;
+    }
+    .counter{
+        font-size: 35px;
+    }
+    .count_border{
+        width: 60px;
+        height: 5px;
+        margin: 8px 0;
+    }
+    .count_single h3{
+        font-size: 18px;
+    }
+    /* creative */
+    .creative{
+        margin-top: 50px;
+    }
+    .service{
+        padding: 80px 0;
+    }
+    /* team */
+    .team{
+        padding: 80px 0;
+    }
+    /* contact */
+    .contact{
+        padding: 60px 0;
+    }
+    .info_single{
+        margin-top: 25px;
+    }
+    .c_single{
+        margin-top: 10px;
+    }
+    /* footer */
+    footer{
+        padding: 40px 0;
+    }
+}
+
+/* Medium devices (tablets, 768px and 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* banner */
+    .b_content h1{
+        font-size: 40px;
+    }
+    .b_content p{
+        margin: 30px 0;
+    }
+    /* Feature */
+    .f_single{
+        padding: 40px 50px;
+    }
+    .icon{
+        width: 60px;
+        height: 60px;
+        font-size: 30px;
+    }
+    /* common section */
+    .c_section h1{
+        font-size: 40px;
+    }
+    .c_section p{
+        margin: 20px 0;
+    }
+    /* About */
+    .about{
+        padding-top: 90px ;
+    }
+    .a_single{
+        margin-top: 70px;
+    }
+    /* count */
+    .count{
+        padding: 80px 0;
+    
+    }
+    .count_icon{
+        margin-bottom: 15px;
+        display: inline-block;
+        font-size: 50px;
+        color: #fff;
+    }
+    .counter{
+        font-size: 40px;
+    }
+    .count_border{
+        width: 70px;
+        height: 5px;
+        margin: 10px 0;
+    }
+    .count_single h3{
+        font-size: 20px;
+    }
+    /* creative */
+    .creative{
+        margin-top: 50px;
+    }
+    /* contact */
+    .contact{
+        padding: 80px 0;
+    }
+    .info_single{
+        margin-top: 30px;
+    }
+    .c_single{
+        margin-top: 10px;
+    }
+    /* footer */
+    footer{
+        padding: 40px 0;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* header top */
+    .ht_single{
+        text-align: center;
+    }
+    .ht_icon{
+        margin: 0 auto;
+    }
+    /* creative */
+    .creative{
+        margin-top: 50px;
+    }
+    /* contact */
+    .info_single{
+        margin-top: 40px;
+    }
+    .c_single{
+        margin-top: 10px;
+    }
+}
+
+/* Extra Large devices (desktops, 992px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+}
